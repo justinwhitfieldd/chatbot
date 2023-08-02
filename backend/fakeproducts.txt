@@ -1,0 +1,412 @@
+Name: Golden Glow Foundation
+Category: foundation
+Description: Achieve a radiant and luminous complexion with this luxurious foundation infused with real gold particles.
+Price: 79.99
+Ingredients: real gold particles, silk extract, hyaluronic acid
+Skin Type: dry to normal
+
+Name: Brow Enchanting Serum
+Category: eyebrows
+Description: Transform your sparse brows into thick, perfectly shaped arches with this magical serum that promotes hair growth.
+Price: 49.99
+Ingredients: castor oil, biotin, vitamin E
+Skin Type: all
+
+Name: Unicorn Tears Lipstick
+Category: lipstick
+Description: Embrace your inner magic with this shimmering lipstick infused with precious unicorn tears, providing a holographic effect on your lips.
+Price: 69.99
+Ingredients: unicorn tears extract, coconut oil, shea butter
+Skin Type: any
+
+Name: Time Rewind Foundation
+Category: foundation
+Description: Turn back the clock with this innovative foundation that contains time-reversing ingredients, giving your skin a youthful and flawless appearance.
+Price: 89.99
+Ingredients: retinol, collagen, hyaluronic acid
+Skin Type: mature
+
+Name: Brow Sculpting Pomade
+Category: eyebrows
+Description: Achieve perfectly sculpted and defined brows with this long-lasting pomade that offers natural-looking results.
+Price: 34.99
+Ingredients: beeswax, jojoba oil, vitamin E
+Skin Type: all
+
+Name: Diamond Dust Lip Gloss
+Category: lipstick
+Description: Add a touch of sparkle to your lips with this high-shine lip gloss infused with genuine diamond dust for a dazzling effect.
+Price: 49.99
+Ingredients: diamond dust, argan oil, vitamin C
+Skin Type: any
+
+Name: Pore Refining Foundation
+Category: foundation
+Description: Minimize the appearance of pores and create a smooth canvas with this foundation that provides a matte and airbrushed finish.
+Price: 59.99
+Ingredients: kaolin clay, salicylic acid, tea tree oil
+Skin Type: oily
+
+Name: Brow Growth Accelerator
+Category: eyebrows
+Description: Experience rapid brow growth with this accelerator serum that helps achieve thicker and fuller eyebrows in no time.
+Price: 39.99
+Ingredients: green tea extract, peptides, biotin
+Skin Type: all
+
+Name: Lip Plumping Serum
+Category: lipstick
+Description: Get voluptuous and kissable lips with this lip plumping serum that enhances fullness and creates a perfect pout in seconds.
+Price: 44.99
+Ingredients: cinnamon oil, ginger extract, hyaluronic acid
+Skin Type: any
+
+Name: Hydra Boost Foundation
+Category: foundation
+Description: Quench your skin's thirst with this hydrating foundation that provides a dewy and moisturized finish, perfect for dry or dehydrated skin.
+Price: 69.99
+Ingredients: hyaluronic acid, cucumber extract, coconut water
+Skin Type: dry
+
+Name: Brow Defining Pen
+Category: eyebrows
+Description: Achieve precision and definition with this easy-to-use brow pen that allows you to create hair-like strokes for natural-looking brows.
+Price: 24.99
+Ingredients: glycerin, vitamin E, chamomile extract
+Skin Type: all
+
+Name: Mood-Changing Lipstick
+Category: lipstick
+Description: Express your emotions through your lips with this unique lipstick that changes color based on your body temperature and mood.
+Price: 54.99
+Ingredients: mood-reactive pigments, jojoba oil, shea butter
+Skin Type: any
+
+Name: Youth Elixir Foundation
+Category: foundation
+Description: Unlock the fountain of youth with this foundation that combines anti-aging ingredients to diminish fine lines and plump the skin for a more youthful appearance.
+Price: 79.99
+Ingredients: peptides, coenzyme Q10, vitamin A
+Skin Type: mature
+
+Name: Brow Volumizing Gel
+Category: eyebrows
+Description: Enhance the volume of your brows with this gel that adds thickness and dimension, leaving your eyebrows looking effortlessly full and groomed.
+Price: 29.99
+Ingredients: bamboo fibers, panthenol, argan oil
+Skin Type: all
+
+Name: Crystal Clear Lip Balm
+Category: lipstick
+Description: Nourish and protect your lips with this crystal-infused lip balm that provides hydration and a natural shine for a polished look.
+Price: 19.99
+Ingredients: clear quartz crystals, shea butter, jojoba oil
+Skin Type: any
+
+Name: Ultimate Coverage Foundation
+Category: foundation
+Description: Achieve flawless and full coverage with this foundation that conceals imperfections and leaves your skin looking airbrushed and photo-ready.
+Price: 69.99
+Ingredients: high-pigment formula, hyaluronic acid, chamomile extract
+Skin Type: all
+
+Name: Brow Tattoo Pen
+Category: eyebrows
+Description: Create long-lasting and waterproof brows with this tattoo pen that allows you to draw precise and natural-looking eyebrow hairs.
+Price: 34.99
+Ingredients: vegan ink, aloe vera, vitamin B5
+Skin Type: all
+
+Name: Galaxy Kiss Lipstick
+Category: lipstick
+Description: Embark on a cosmic journey with this lipstick that features mesmerizing, galaxy-inspired shades for a truly out-of-this-world lip look.
+Price: 49.99
+Ingredients: star dust particles, argan oil, vitamin E
+Skin Type: any
+
+Name: Miracle Overnight Serum
+Category: skincare
+Description: Wake up with a revitalized and rejuvenated complexion by using this powerful overnight serum that works wonders while you sleep.
+Price: 89.99
+Ingredients: retinol, peptides, niacinamide
+Skin Type: all
+
+Name: Wrinkle Eraser Cream
+Category: skincare
+Description: Say goodbye to fine lines and wrinkles with this targeted cream that smooths and firms the skin, providing a more youthful and plump appearance.
+Price: 64.99
+Ingredients: collagen, hyaluronic acid, argireline
+Skin Type: mature
+
+Name: Potion of Glow Face Oil
+Category: skincare
+Description: Achieve a radiant and dewy complexion with this luxurious face oil that nourishes and hydrates, leaving your skin glowing and healthy.
+Price: 54.99
+Ingredients: rosehip oil, vitamin C, lavender extract
+Skin Type: dry to normal
+
+Name: Pore Minimizer Serum
+Category: skincare
+Description: Minimize the appearance of enlarged pores with this serum that tightens and refines the skin, creating a smoother and more even complexion.
+Price: 44.99
+Ingredients: niacinamide, witch hazel extract, aloe vera
+Skin Type: combination to oily
+
+Name: Dreamy Night Cream
+Category: skincare
+Description: Indulge in sweet dreams while this luxurious night cream works its magic, replenishing and hydrating your skin for a fresh and rested appearance.
+Price: 74.99
+Ingredients: lavender oil, shea butter, ceramides
+Skin Type: all
+
+Name: Caviar Deluxe Eye Cream
+Category: skincare
+Description: Treat your delicate eye area with this opulent eye cream that nourishes, hydrates, and reduces the appearance of dark circles and fine lines.
+Price: 89.99
+Ingredients: caviar extract, peptides, caffeine
+Skin Type: all
+
+Name: Hydra-Lock Moisturizer
+Category: skincare
+Description: Lock in moisture and protect your skin against dryness with this hydrating moisturizer that provides all-day hydration for a plump and supple complexion.
+Price: 59.99
+Ingredients: hyaluronic acid, ceramides, green tea extract
+Skin Type: dry to normal
+
+Name: Crystal Clear Face Mask
+Category: skincare
+Description: Pamper your skin with this crystal-infused face mask that detoxifies, brightens, and leaves your complexion looking crystal clear and revitalized.
+Price: 29.99
+Ingredients: clear quartz crystals, kaolin clay, vitamin C
+Skin Type: any
+
+Name: Vitamin C Booster Serum
+Category: skincare
+Description: Boost your skin's radiance with this potent vitamin C serum that brightens and evens out the complexion, providing a youthful and glowing appearance.
+Price: 49.99
+Ingredients: vitamin C, hyaluronic acid, grapefruit extract
+Skin Type: all
+
+Name: Youthful Glow Primer
+Category: skincare
+Description: Create the perfect canvas for makeup application with this illuminating primer that blurs imperfections and gives your skin a youthful and radiant glow.
+Price: 44.99
+Ingredients: pearl powder, peptides, rosehip oil
+Skin Type: all
+
+Name: Magic Acne Treatment
+Category: skincare
+Description: Say goodbye to pesky breakouts with this magical acne treatment that calms inflammation, reduces redness, and clears blemishes in no time.
+Price: 39.99
+Ingredients: tea tree oil, salicylic acid, rosemary extract
+Skin Type: oily
+
+Name: Urban Defender Moisturizer
+Category: skincare
+Description: Shield your skin from environmental stressors with this protective moisturizer that hydrates and strengthens the skin's barrier, keeping it healthy and radiant.
+Price: 49.99
+Ingredients: SPF 30, antioxidants, shea butter
+Skin Type: all
+
+Name: Velvet Touch Cleansing Balm
+Category: skincare
+Description: Experience the ultimate luxury in cleansing with this velvety balm that removes makeup and impurities, leaving your skin clean, soft, and nourished.
+Price: 34.99
+Ingredients: jojoba oil, rose oil, vitamin E
+Skin Type: all
+
+Name: Divine Elixir Serum
+Category: skincare
+Description: Transform your skin with this divine serum that rejuvenates, brightens, and nourishes your complexion, giving you a lit-from-within glow and a youthful appearance.
+Price: 79.99
+Ingredients: gold flakes, rosehip oil, peptides
+Skin Type: all
+
+Name: Diamond Dust Night Cream
+Category: skincare
+Description: Indulge in the luxury of diamonds while you sleep with this opulent night cream that deeply hydrates and revitalizes your skin.
+Price: 99.99
+Ingredients: diamond dust, argan oil, squalane
+Skin Type: dry to normal
+
+Name: Mermaid Lagoon Face Mist
+Category: skincare
+Description: Experience the refreshing and hydrating powers of the ocean with this mermaid-inspired face mist that leaves your skin revitalized and glowing.
+Price: 24.99
+Ingredients: seaweed extract, aloe vera, cucumber water
+Skin Type: any
+
+Name: Lash Enhancer Serum
+Category: skincare
+Description: Achieve longer and thicker lashes with this nourishing serum that promotes lash growth and strengthens the hair follicles, giving you luscious lashes.
+Price: 49.99
+Ingredients: biotin, panthenol, grape seed extract
+Skin Type: all
+
+Name: Charcoal Detox Mask
+Category: skincare
+Description: Purify and detoxify your skin with this charcoal-infused mask that draws out impurities, unclogs pores, and leaves your complexion looking fresh and clarified.
+Price: 29.99
+Ingredients: activated charcoal, green tea extract, kaolin clay
+Skin Type: combination to oily
+
+Name: Enchanted Rose Facial Oil
+Category: skincare
+Description: Immerse yourself in the beauty of an enchanted garden with this rose-infused facial oil that hydrates, nourishes, and restores your skin's natural radiance.
+Price: 39.99
+Ingredients: rose oil, argan oil, vitamin E
+Skin Type: all
+
+Name: Liquid Gold Highlighter
+Category: skincare
+Description: Illuminate your best features with this liquid gold highlighter that adds a radiant and luminous glow to your complexion, making you shine like a star.
+Price: 49.99
+Ingredients: gold pigments, argan oil, coconut oil
+Skin Type: any
+
+Name: Unicorn Essence Serum
+Category: skincare
+Description: Harness the magical powers of unicorns with this serum that hydrates, brightens, and primes your skin, giving you a flawless and ethereal glow.
+Price: 54.99
+Ingredients: unicorn tears extract, hyaluronic acid, lavender oil
+Skin Type: all
+
+Name: Rose Petal Lip Scrub
+Category: skincare
+Description: Exfoliate and nourish your lips with this rose-infused lip scrub that removes dead skin cells, leaving your lips soft, smooth, and kissable.
+Price: 19.99
+Ingredients: rose petals, sugar, jojoba oil
+Skin Type: any
+
+Name: InstaBlur Primer
+Category: skincare
+Description: Blur imperfections and minimize the appearance of pores with this lightweight and velvety primer that creates a flawless canvas for makeup application.
+Price: 39.99
+Ingredients: blurring technology, green tea extract, vitamin E
+Skin Type: all
+
+Name: Midnight Recovery Oil
+Category: skincare
+Description: Rejuvenate and replenish your skin overnight with this potent facial oil that hydrates, repairs, and restores your complexion while you sleep.
+Price: 59.99
+Ingredients: lavender oil, squalane, evening primrose oil
+Skin Type: all
+
+Name: Unicorn Dreams Sheet Mask
+Category: skincare
+Description: Immerse yourself in a unicorn dreamland with this magical sheet mask that deeply hydrates and revitalizes your skin, leaving it plump, glowing, and dreamy.
+Price: 24.99
+Ingredients: unicorn tears extract, hyaluronic acid, rose extract
+Skin Type: any
+
+Name: Volcanic Ash Cleansing Gel
+Category: skincare
+Description: Cleanse and purify your skin with this cleansing gel that contains volcanic ash, effectively removing impurities and leaving your skin refreshed and renewed.
+Price: 29.99
+Ingredients: volcanic ash, tea tree oil, witch hazel extract
+Skin Type: combination to oily
+
+Name: Illuminating Eye Cream
+Category: skincare
+Description: Banish dark circles and brighten your under-eye area with this illuminating eye cream that reduces puffiness and makes your eyes sparkle.
+Price: 39.99
+Ingredients: pearl powder, caffeine, rosehip oil
+Skin Type: all
+
+Name: Crystal Clear Body Scrub
+Category: skincare
+Description: Exfoliate and polish your body with this crystal-infused body scrub that sloughs away dead skin cells, leaving your skin silky smooth and radiant.
+Price: 34.99
+Ingredients: clear quartz crystals, coconut oil, sea salt
+Skin Type: any
+
+Name: Magic Makeup Remover
+Category: skincare
+Description: Effortlessly remove even the toughest waterproof makeup with this magical makeup remover that cleanses and nourishes your skin, leaving it soft and fresh.
+Price: 24.99
+Ingredients: magic micellar technology, chamomile extract, aloe vera
+Skin Type: all
+
+Name: Featherweight Facial Moisturizer
+Category: skincare
+Description: Hydrate and balance your skin with this featherlight moisturizer that absorbs rapidly, providing all-day hydration without feeling heavy or greasy.
+Price: 34.99
+Ingredients: hyaluronic acid, cucumber extract, almond oil
+Skin Type: combination to oily
+
+Name: Crystal Clear Toning Mist
+Category: skincare
+Description: Energize and refresh your skin with this crystal-infused toning mist that restores pH balance, tightens pores, and enhances the absorption of skincare products.
+Price: 29.99
+Ingredients: clear quartz crystals, rose water, witch hazel extract
+Skin Type: any
+
+Name: Ageless Beauty Serum
+Category: skincare
+Description: Defy the signs of aging with this powerful serum that diminishes wrinkles, firms the skin, and promotes a youthful and radiant complexion.
+Price: 79.99
+Ingredients: peptide complex, squalane, vitamin C
+Skin Type: mature
+
+Name: Cooling Under-Eye Gel
+Category: skincare
+Description: Revitalize and soothe tired eyes with this cooling gel that reduces puffiness, minimizes dark circles, and refreshes your under-eye area.
+Price: 29.99
+Ingredients: cucumber extract, aloe vera, caffeine
+Skin Type: all
+
+Name: Sun-Kissed Bronzing Drops
+Category: skincare
+Description: Achieve a sun-kissed glow all year round with these bronzing drops that blend seamlessly and give your complexion a healthy and radiant tan.
+Price: 34.99
+Ingredients: bronze pigments, coconut oil, vitamin E
+Skin Type: any
+
+Name: Crystal Clear Lip Sleeping Mask
+Category: skincare
+Description: Restore and nourish your lips while you sleep with this crystal-infused lip mask that hydrates, repairs, and leaves your lips smooth and plump.
+Price: 24.99
+Ingredients: clear quartz crystals, shea butter, honey extract
+Skin Type: any
+
+Name: Amethyst Relaxing Face Mist
+Category: skincare
+Description: Indulge in relaxation with this amethyst-infused face mist that calms your senses, hydrates your skin, and gives you a fresh and revived complexion.
+Price: 29.99
+Ingredients: amethyst crystals, lavender water, chamomile extract
+Skin Type: any
+
+Name: 24K Gold Eye Patches
+Category: skincare
+Description: Treat your under-eye area like royalty with these luxurious eye patches that reduce puffiness and dark circles, leaving your eyes looking brighter and refreshed.
+Price: 39.99
+Ingredients: gold flakes, collagen, aloe vera
+Skin Type: all
+
+Name: Bubble Clay Cleanser
+Category: skincare
+Description: Experience the magic of bubbles with this clay-based cleanser that gently removes impurities and excess oil, leaving your skin clean and rejuvenated.
+Price: 24.99
+Ingredients: charcoal powder, green tea extract, rosemary oil
+Skin Type: combination to oily
+
+Name: Crystal Clear Body Lotion
+Category: skincare
+Description: Pamper your body with this crystal-infused body lotion that deeply hydrates and leaves your skin velvety smooth, making you feel like a goddess.
+Price: 34.99
+Ingredients: clear quartz crystals, shea butter, coconut oil
+Skin Type: any
+
+Name: Miracle Glow Serum
+Category: skincare
+Description: Illuminate your complexion with this miracle serum that boosts radiance, evens out skin tone, and leaves your skin glowing and flawless.
+Price: 49.99
+Ingredients: vitamin C, niacinamide, pearl powder
+Skin Type: all
+
+Name: Unicorn Magic Face Mask
+Category: skincare
+Description: Transport yourself to a magical realm with this unicorn-inspired face mask that hydrates, brightens, and detoxifies your skin, giving you a radiant and mythical glow.
+Price: 29.99
+Ingredients: unicorn tears extract, rose water, kaolin clay
+Skin Type: any
